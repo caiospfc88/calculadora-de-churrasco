@@ -1,4 +1,4 @@
 const Resultado = () => {
-  return <div>Resultado</div>;
+  return <div className="page-container">Resultado</div>;
 };
 export default Resultado;
